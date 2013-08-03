@@ -15,8 +15,10 @@
   "bugs": {
     "url": "https://github.com/kaelzhang/typo-rgb/issues"
   },
-
   "dependencies": {
     "color-diff": "~0.1.0"
+  },
+  "devDependencies": {
+    "typo": "~0.1.12"
   }
 }
